@@ -1,4 +1,4 @@
-## Crypto Marget Dashboard
+## Crypto Market Dashboard
 
 A Streamlit dashboard for real-time cryptocurrency market analysis using the CoinGecko API.
 
@@ -28,5 +28,7 @@ Data is cached for **3 minutes** to avoid rate limits and improve performance.
 #### Installation & Usage
 
 1. **Clone the repo**  
-git clone https://github.com/ayush-skech/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/Ayush-skech/crypto_market_analysis.git
+
+2. **Try app on Streamlit** 
+https://ayush-skech-crypto-market-analysis-app-lfulyl.streamlit.app/
